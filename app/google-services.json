@@ -1,0 +1,58 @@
+{
+  "project_info": {
+    "project_number": "1065321416853",
+    "firebase_url": "https://instapoo-a8910.firebaseio.com",
+    "project_id": "instapoo-a8910",
+    "storage_bucket": "instapoo-a8910.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065321416853:android:a1e5cf457cc5d183",
+        "android_client_info": {
+          "package_name": "com.example.armando.instapoo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1065321416853-ra7qi97be9p6ln2k31ol9kvld31vm6uf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.armando.instapoo",
+            "certificate_hash": "4296cc106c270189e72dc437ecc750fc2ca27223"
+          }
+        },
+        {
+          "client_id": "1065321416853-rqq6geq8lhua3u57dak4m2djo2v6f9ta.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8shJel7H2cE8nYFdZzLAMAbEQOBtDAAA"
+        },
+        {
+          "current_key": "AIzaSyBVdj9ptnsKgfm9JG4toQJ64JJkHVKPaXM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1065321416853-rqq6geq8lhua3u57dak4m2djo2v6f9ta.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
